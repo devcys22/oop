@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.grade;
 
 public class Course {
     private final int credit;

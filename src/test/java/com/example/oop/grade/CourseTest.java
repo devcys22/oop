@@ -1,5 +1,6 @@
-package com.example.oop;
+package com.example.oop.grade;
 
+import com.example.oop.grade.Course;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
