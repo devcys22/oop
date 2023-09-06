@@ -1,4 +1,4 @@
-package com.example.oop;
+package com.example.oop.grade;
 
 import java.util.List;
 
